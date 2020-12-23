@@ -11,3 +11,7 @@
     6 # The user input.
     ```
     * The converted md file won't have this input. It has to be manually entered.
+
+* The converted md file can be converted into pdf using this https://dillinger.io/ website for assignment submission.
+
+* This script is created for students for reducing their time that takes them to screenshot their code and output and convert that to pdf for assignment submission.
